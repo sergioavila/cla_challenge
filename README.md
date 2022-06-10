@@ -1,4 +1,8 @@
 # NUXT
+## Custom UI design
+I made a simple design to work with:
+![Design](https://engage-digital.net/APP.png)
+[Figma project](https://www.figma.com/file/yQxhDq0OX7vPnXkVCwVQEo/Los-H%C3%A9roes-Challenge?node-id=0%3A1)
 
 ## Build Setup
 
